@@ -6,11 +6,11 @@
 
 \## Project Description
 
-Web application for automating internal processes of Halcon, 
+Web application for automating internal processes of Halcon,
 
-a construction material distributor. The system allows customers 
+a construction material distributor. The system allows customers
 
-to track their orders and provides an administrative dashboard 
+to track their orders and provides an administrative dashboard
 
 for company staff.
 
@@ -28,7 +28,11 @@ for company staff.
 
 \## Team
 
-\- \[Your name]
+Carlos
+
+Jose
+
+Hector
 
 
 
