@@ -10,11 +10,11 @@ an administrative dashboard for company staff.
 
 ---
 
-##  Tech Stack
+##  Tech Stack (Proposed)
 
-- **Frontend:** React / Vue  
-- **Backend:** Node.js / Laravel  
-- **Database:** MySQL / PostgreSQL  
+- Frontend: To be defined
+- Backend: To be defined
+- Database: Relational database (MySQL)
 
 ---
 
