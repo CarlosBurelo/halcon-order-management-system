@@ -1,42 +1,32 @@
-# halcon-order-management-system
+#  Halcon Order Management System
 
-\# Halcon Construction Materials – Web Application
+##  Project Description
 
+Web application designed to automate the internal processes of **Halcon**,  
+a construction materials distributor.
 
+The system allows customers to track their orders and provides  
+an administrative dashboard for company staff.
 
-\## Project Description
+---
 
-Web application for automating internal processes of Halcon,
+##  Tech Stack
 
-a construction material distributor. The system allows customers
+- **Frontend:** React / Vue  
+- **Backend:** Node.js / Laravel  
+- **Database:** MySQL / PostgreSQL  
 
-to track their orders and provides an administrative dashboard
+---
 
-for company staff.
+##  Team
 
+- Carlos  
+- Jose  
+- Hector  
 
+---
 
-\## Tech Stack
+##  Project Status
 
-\- Frontend: \[e.g. React / Vue]
-
-\- Backend: \[e.g. Node.js / Laravel]
-
-\- Database: \[e.g. MySQL / PostgreSQL]
-
-
-
-\## Team
-
-Carlos
-
-Jose
-
-Hector
-
-
-
-\## Status
-
-In development – Analysis phase
+**In Development – Analysis Phase**
 
